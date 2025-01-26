@@ -1,0 +1,239 @@
+---
+title: Dew Drop – November 6, 2010
+author: Alvin A.
+type: post
+date: 2010-11-06T19:43:50+00:00
+url: /2010/11/06/dew-drop-november-6-2010/
+categories:
+  - Daily Links
+  - Development
+tags:
+  - agile
+  - 'f#'
+  - html5
+  - mvvm
+  - orm
+  - powershell
+  - sharepoint
+  - silverlight
+  - sql server
+  - ssis
+  - vs2010
+  - windows phone 7
+
+---
+Jump to: [Top Links][1] | [.NET / Visual Studio][2] | [Web Development][3] | [Design / Methodology / Testing][4] | [Silverlight / WPF / Windows Phone][5] | [Podcasts / Screencasts / Videos][6] | [Community / Events][7] | [Database][8] | [SharePoint][9] | [Miscellaneous][10] | [More Link Collections][11] | [The Geek Shelf][12] 
+
+&#160;
+
+### <a name="top"></a>Top Links
+
+  * [Using EventTrigger in XAML for MVVM – No Code Behind][13] (Kunal Chowdhury)
+  * [40% Off Selected .NET Manning Books!][14] (Joey deVilla)
+  * [Silverlight Data Template Selector using Managed Extensibility Framework][15] (Jeremy Likness)
+  * [Ready for take-off? Top 10 things to check when you think you are done with your application.][16] (Alfred Astort)
+
+&#160;
+
+### <a name="dotnet"></a>.NET / Visual Studio
+
+  * [The BigInteger Structure][17] (Richard Carr)
+  * [F# 2.0 Compiler &#8211; Released as open-source in the context of the latest F# PowerPack code drop][18] (Dennis Delimarsky)
+  * [Custom Diagnostic Data Adapter capture the Webcam][19] (Clemens Reijnen)
+  * [Change the Templates That Appear in the New Project or Item Dialogs][20] (Zain Naboulsi)
+  * [MSDN Magazine &#8211; A Coder’s Guide to Writing API Documentation][21] (jwalk)
+  * [Do you ORM?][22] (Al Kampfer)
+  * [SOA with .NET and Windows Azure: Realizing Service-Orientation with the Microsoft Platform][23] (Azz Rahman)
+  * [Reflection &#8211; Slow or Fast? Demonstration with Solutions][24] (Abhishek Sur)
+  * [Parallel Extensions to the .NET 4.0 Runtime][25] (logicchild)
+
+&#160;
+
+### <a name="web"></a>Web Development
+
+  * [Supporting the HTML 5 Video Tag with Fallback][26]&#160;_and_ [Web Storage in HTML 5][27] _and_ [Offline HTML 5 Apps (appcache)][28] _and_ [Microformats and HTML 5 Part 1][29] _and_ [AI to Canvas by the Mix Online Folks][30] (Don Burnett)
+  * [JavaScript Event to an Object Instance][31] (Jason McDonald)
+  * [Package that speeds up loading of JavaScript, CSS and image files][32] (Matt Perdeck)
+  * [A Status Check on the YUI 2-to-3 Transition][33] (Eric Miraglia)
+  * [Feature Detection for Better Compatibility in Web Development][34] (Gil Fink)
+  * [Same Mark-up: Cross-Browser Web Development][35] (Andrew Spooner)
+  * [Tuning Add-on Performance: Windows Live Messenger Companion][36] (Herman Ng)
+  * [5 Tips to Make your Blog or Site More Social][37] (Joel Oleson)
+
+&#160;
+
+### <a name="design"></a>Design / Methodology / Testing
+
+  * [Week in Review 5 – The State of Agile Finishes][38] (ScoutMaster)
+  * [Fighting Confirmation Bias][39] (Phil Haack)
+  * [Virtual Villages: Cultivating a Shared Practice Community][40] (Sumeet Moghe)
+  * [Successful Teams: Capable Backups][41] (K. Brian Kelley)
+  * [Retrospectives: Actions][42] _and_ [Retrospectives: General observations][43] (Mark Needham)
+
+&#160;
+
+### <a name="silverlight"></a>Silverlight / WPF / Windows Phone
+
+  * [A couple of more data-related Silverlight Quickstarts for you][44] (Cheryl Simmons)
+  * [7 Coding4Fun Windows Phone 7 applications released!][45] (Coding4Fun)
+  * [Silverlight DataTrigger is the Answer to View Model / MVVM issues][46] (Michael Washington)
+  * [What XAML Information Do You Need?][47] (Kim Spilker)
+  * [Silverlight: less cross-platform, more cross developers][48] (Laila Lofti)
+  * [Science of Great UI & Windows Phone 7][49] (Mark Miller)
+  * [The whole Silverlight Brouhaha after PDC][50] (Markus Egger)
+  * [Customize the Silverlight Installation Experience in about 15 Minutes][51] (Michael Crump)
+  * [Silverlight (with full .NET programming model support) is coming to Slate devices?][52] (Anoop Madhusudanan)
+  * [TED for Windows Phone 7][53] (Steve Clayton)
+
+&#160;
+
+### <a name="podcasts"></a>Podcasts / Screencasts / Videos
+
+  * [TWC9: Phone Updates, BizSpark graduation, PDC Videos and WCF][54] (Clint Rutkas & Dan Fernandez)
+  * [The basics on navigating the Kinect][55] (Tina Wood)
+  * [Cloud Cover Episode 31 &#8211; Startup Tasks, Elevated Privileges, and Classic ASP][56] (Steve Marx)
+  * [Windows Phone Radio Episode Seven][57] (Brian Seitz)
+
+&#160;
+
+### <a name="events"></a>Community / Events
+
+  * [Live Streaming Keynotes From PASS Summit 2010][58] (Glenn Berry)
+
+&#160;
+
+### <a name="db"></a>Database
+
+  * [SSIS: Using a Script Component as a substitute OLEDB Destination][59] (Josef Richberg)
+  * [Use an OUTER LOOP JOIN for faster performance when one of the tables is much smaller][60] (Denis Gobo)
+  * [Recursive Queries with Common Table Expressions][61] (Ken Downs)
+
+&#160;
+
+### <a name="sp"></a>SharePoint
+
+  * [Including the *.XAP Generated by One Project in a SharePoint 2010 Project][62] (Andrew Connell)
+  * [Critical Information about the SharePoint Server 2010 October Cumulative Update][63] (SharePoint Team)
+
+&#160;
+
+### <a name="misc"></a>Miscellaneous
+
+  * [Tufts University XNA Gaming Projects Showcased on App Hub][64] (Bob Familiar)
+  * [Assistance At Microsoft.com][65] _and_ [Booting from a Virtual Hard Drive (VHD)][66] (Richard Hay)
+  * [XmlLists with Psake / Powershell][67] (Naeem Khedarun)
+  * [PowerGUI Scripting Challenge][68] (Jeffrey Snover)
+  * [XNA Game Studio Connect 4.0 and XBLIG Submission Update][69] (Team XNA)
+
+&#160;
+
+### <a name="links"></a>More Link Collections
+
+  * [Interesting Finds: November 6, 2010][70] (Jason Haley)
+  * [Silverlight Cream for November 06, 2010 &#8212; #986][71] (Dave Campbell)
+  * [Daily Cloud Feed &#8211; Nov 5, 2010][72] (Jian Zhen)
+  * [November 5th What&#8217;s Happening Around Visual Studio][73] (Jason Zander)
+
+&#160;
+
+### <a name="shelf"></a>The Geek Shelf
+
+<table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/ecx.images-amazon.com/images/I/513PZWJDH7L._SL160_.jpg?w=660" />
+    </td>
+    
+    <td valign="top">
+      <p>
+        <a href="http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530%3FSubscriptionId%3D0JTCV5ZMHMF7ZYTXGFR2%26tag%3Dbrdicr-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0321146530">Test Driven Development: By Example</a> by Kent Beck
+      </p>
+    </td>
+  </tr>
+</table>
+
+&#160;
+
+<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:C16BAC14-9A3D-4c50-9394-FBFEF7A93539:e38d8da4-b61b-4e99-a16f-675001b39bbd" class="wlWriterEditableSmartContent">
+  <!--dotnetkickit-->
+</div>
+
+&#160;
+
+<div style="padding-bottom: 0px; margin: 0px; padding-left: 0px; padding-right: 0px; display: inline; float: none; padding-top: 0px" id="scid:0767317B-992E-4b12-91E0-4F059A8CECA8:4874198b-5cef-431f-ae06-b9f783a53977" class="wlWriterEditableSmartContent">
+  Technorati Tags: <a href="http://technorati.com/tags/vs2010" rel="tag">vs2010</a>,<a href="http://technorati.com/tags/silverlight" rel="tag">silverlight</a>,<a href="http://technorati.com/tags/powershell" rel="tag">powershell</a>,<a href="http://technorati.com/tags/windows+phone+7" rel="tag">windows phone 7</a>,<a href="http://technorati.com/tags/html5" rel="tag">html5</a>,<a href="http://technorati.com/tags/sql+server" rel="tag">sql server</a>,<a href="http://technorati.com/tags/ssis" rel="tag">ssis</a>,<a href="http://technorati.com/tags/sharepoint" rel="tag">sharepoint</a>,<a href="http://technorati.com/tags/f%23" rel="tag">f#</a>,<a href="http://technorati.com/tags/orm" rel="tag">orm</a>,<a href="http://technorati.com/tags/mvvm" rel="tag">mvvm</a>,<a href="http://technorati.com/tags/agile" rel="tag">agile</a>
+</div>
+
+ [1]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#top
+ [2]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#dotnet
+ [3]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#web
+ [4]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#design
+ [5]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#silverlight
+ [6]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#podcasts
+ [7]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#events
+ [8]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#db
+ [9]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#sp
+ [10]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#misc
+ [11]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#links
+ [12]: https://morningdew-bpc6g3a0fgaxdxcu.eastus2-01.azurewebsites.net/#shelf
+ [13]: http://www.codeproject.com/KB/silverlight/SilverlightEventTrigger.aspx
+ [14]: http://www.globalnerdy.com/2010/11/05/40-off-selected-net-manning-books/
+ [15]: http://feedproxy.google.com/~r/CSharperImage/~3/45-OHsH6r3Y/silverlight-data-template-selector.html
+ [16]: http://windowsteamblog.com/windows_phone/b/wpdev/archive/2010/11/05/top-ten-things-to-keep-an-eye-on.aspx
+ [17]: http://feedproxy.google.com/~r/BlackwaspLatestAdditions/~3/m6eBYAHvbUQ/BigInteger.aspx
+ [18]: http://feeds.dzone.com/~r/zones/dotnet/~3/aHT6ItHOjfQ/f-compiler-now-open-source
+ [19]: http://feedproxy.google.com/~r/clemensreijnen/qzrF/~3/BvHswWXXHco/post.aspx
+ [20]: http://feedproxy.google.com/~r/zainnab/~3/eNnm26ojMUY/change-the-templates-that-appear-in-the-new-project-or-item-dialogs-vstipproj0017.aspx
+ [21]: http://blogs.msdn.com/b/wpfsdk/archive/2010/11/05/msdn-magazine-a-coder-s-guide-to-writing-api-documentation.aspx
+ [22]: http://feedproxy.google.com/~r/AlkampferEng/~3/FBhM_BiE3as/
+ [23]: http://feeds.dzone.com/~r/zones/books/~3/IfRl3cCmdIY/soa-net-and-windows-azure
+ [24]: http://feedproxy.google.com/~r/abhisheksur/WTgI/~3/DIi5V_DZ9BQ/reflection-slow-or-faster-demonstration.html
+ [25]: http://www.codeproject.com/KB/Parallel_Programming/C__Concurrency.aspx
+ [26]: http://feedproxy.google.com/~r/d4dotnet/~3/K8ui7USqsIo/post.aspx
+ [27]: http://feedproxy.google.com/~r/d4dotnet/~3/aL6myUbWnZg/post.aspx
+ [28]: http://feedproxy.google.com/~r/d4dotnet/~3/xXfdXndxkZk/post.aspx
+ [29]: http://feedproxy.google.com/~r/d4dotnet/~3/Ij64EktIqjQ/post.aspx
+ [30]: http://feedproxy.google.com/~r/d4dotnet/~3/FcJLnOG_wVk/post.aspx
+ [31]: http://www.mcdonaldland.info/2010/11/05/javascript-event-to-an-object-instance/
+ [32]: http://www.codeproject.com/KB/aspnet/CombineAndMinify.aspx
+ [33]: http://feeds.yuiblog.com/~r/YahooUserInterfaceBlog/~3/qHsbD0gv8CQ/
+ [34]: http://feedproxy.google.com/~r/GilFinkBlog/~3/bjXO698PqY4/feature-detection-for-better-compatibility-in-web-development.aspx
+ [35]: http://feedproxy.google.com/~r/ubelly/~3/3FyPkqQc5kM/
+ [36]: http://blogs.msdn.com/b/ie/archive/2010/11/05/tuning-add-on-performance-windows-live-messenger-companion.aspx
+ [37]: http://feedproxy.google.com/~r/JoelsSharepointLand/~3/rAFTqUrP-_0/ViewPost.aspx
+ [38]: http://feedproxy.google.com/~r/agilescout/~3/IX5xP5O3Pnk/
+ [39]: http://feeds.haacked.com/~r/haacked/~3/VMVDzATH_Qg/fighting-confirmation-bias.aspx
+ [40]: http://feedproxy.google.com/~r/blogspot/sawZ/~3/GyGWuazs15o/virtual-villages-cultivating-shared.html
+ [41]: http://www.sqlservercentral.com/blogs/brian_kelley/archive/2010/11/05/successful-teams-capable-backups.aspx
+ [42]: http://feedproxy.google.com/~r/MarkNeedham/~3/0yF_FDn0LaI/
+ [43]: http://feedproxy.google.com/~r/MarkNeedham/~3/IuM2rETHkWk/
+ [44]: http://blogs.msdn.com/b/silverlight_sdk/archive/2010/11/05/a-couple-of-more-data-related-silverlight-quickstarts-for-you.aspx
+ [45]: http://blogs.msdn.com/b/coding4fun/archive/2010/11/05/10087029.aspx
+ [46]: http://www.codeproject.com/KB/silverlight/SLDataTriggerDemo.aspx
+ [47]: http://blogs.msdn.com/b/microsoft_press/archive/2010/11/05/what-xaml-information-do-you-need.aspx
+ [48]: http://www.simple-talk.com/community/blogs/laila/archive/2010/11/05/95540.aspx
+ [49]: http://community.devexpress.com/blogs/markmiller/archive/2010/11/05/science-of-great-ui-amp-windows-phone-7.aspx
+ [50]: http://www.markusegger.com/Blog/Blog.aspx?blogid=6a0addce-851e-4579-9306-0297254a1473&messageid=d3443e0c-307a-4473-a091-f2e120933de5
+ [51]: http://michaelcrump.net/archive/2010/11/06/customize-the-silverlight-installation-experience-in-about-15-minutes.aspx
+ [52]: http://feedproxy.google.com/~r/amazedsaint/articles/~3/7H_wHF1lBFM/silverlight-with-full-net-programming.html
+ [53]: http://blogs.msdn.com/b/stevecla01/archive/2010/11/05/ted-for-windows-phone-7.aspx
+ [54]: http://channel9.msdn.com/Shows/This+Week+On+Channel+9/TWC9-Phone-Updates-BizSpark-graduation-PDC-Videos-and-WCF
+ [55]: http://channel9.msdn.com/Shows/InsideXbox/The-basics-on-navigating-the-Kinect
+ [56]: http://channel9.msdn.com/Shows/Cloud+Cover/Cloud-Cover-Episode-31-Startup-Tasks-Elevated-Privileges-and-Classic-ASP
+ [57]: http://windowsteamblog.com/windows_phone/b/windowsphone/archive/2010/11/05/windows-phone-radio-episode-seven.aspx
+ [58]: http://www.sqlservercentral.com/blogs/glennberry/archive/2010/11/05/live-streaming-keynotes-from-pass-summit-2010.aspx
+ [59]: http://feedproxy.google.com/~r/sqlserverpedia/~3/Xv3s0_s7W-s/
+ [60]: http://blogs.lessthandot.com/index.php/DataMgmt/DBProgramming/use-a-outer-loop-join-for-faster-perform
+ [61]: http://database-programmer.blogspot.com/2010/11/recursive-queries-with-common-table.html
+ [62]: http://feedproxy.google.com/~r/AndrewConnell/~3/-ug7EKKzFzM/including-the-.xap-generated-by-one-project-in-a-sharepoint.aspx
+ [63]: http://feedproxy.google.com/~r/sharepointteamblog/~3/RO3rlqjiIEU/critical-information-about-the-sharepoint-server-2010-october-cumulative-update.aspx
+ [64]: http://feedproxy.google.com/~r/msdn/bobfamiliar/~3/m8rNVbi2wzc/tufts-university-xna-gaming-projects-showcased-on-app-hub.aspx
+ [65]: http://www.windowsobserver.com/2010/11/05/assistance-at-microsoft-com/
+ [66]: http://www.windowsobserver.com/2010/11/05/booting-from-a-virtual-hard-drive-vhd/
+ [67]: http://sharpfellows.com/post.aspx?id=2f13080a-32f6-41bf-aa1c-9e6bea5d2983
+ [68]: http://blogs.msdn.com/b/powershell/archive/2010/11/06/powergui-scripting-challenge.aspx
+ [69]: http://blogs.msdn.com/b/xna/archive/2010/11/05/xna-game-studio-connect-4-0-and-xblig-submission-update.aspx
+ [70]: http://jasonhaley.com/blog/post.aspx?id=5cd121d5-7d5e-4fd0-981b-aa5780a27ae4
+ [71]: http://geekswithblogs.net/WynApseTechnicalMusings/archive/2010/11/06/142622.aspx
+ [72]: http://feedproxy.google.com/~r/onsaas/~3/Wo3B5U09_WM/
+ [73]: http://blogs.msdn.com/b/jasonz/archive/2010/11/05/november-15th-what-is-happening-around-visual-studio.aspx
